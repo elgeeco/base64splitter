@@ -1,0 +1,15 @@
+{
+  "name": "base64splitter",
+  "version": "0.0.1",
+  "description": "A (Base64) string splitter with some sample data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/elgeeco/base64splitter.git"
+  }
+}
